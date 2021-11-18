@@ -34,13 +34,13 @@ To get a local copy up and running follow these simple example steps.
 - Clone this project by the command: 
 
 ```
-$ git clone git@github.com:Taher-web-dev/Jane-Street-Market-Prediction.git
+$ git clone git@github.com:Taher-web-dev/Shopee---Price-Match-Guarantee.git
 ```
 
 - Then go to the main folder using the next command:
 
 ```
-$ cd Jane-Street-Market-Prediction
+$ cd Shopee---Price-Match-Guarantee
 ```
 
 
